@@ -1,0 +1,8 @@
+{
+  "name": "Solo App Builder 2026 Autopilot-Rev02",
+  "description": "A comprehensive framework and toolkit for solo developers to transform into solo business owners, featuring 10 curated ideas, a 7-day launch checklist, and an AI-powered brainstorming agent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
